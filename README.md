@@ -22,6 +22,7 @@ echo [your_token] > api_token.txt
 
 ## Usage
 **Basic usage**: `geolocate_pcap.sh [path_to_pcap]`  
+<br>
 **Example - Create a GeoJSON-formatted hosts map**:
 ```bash
 # you can execute the script from any working directory and redirect stdout to a json file:
