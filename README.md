@@ -25,6 +25,6 @@ echo [your_token] > api_token.txt
 <br>
 **Example - Create a GeoJSON-formatted hosts map**:
 ```bash
-# you can execute the script from any working directory and redirect stdout to a json file:
+# you can execute the script from any working directory and redirect stdout to a json file
 ~/repos/geolocate-pcap-hosts/geolocate_pcap.sh cap1.pcapng > host_map.json
 ```
