@@ -11,7 +11,7 @@ Run it on Linux, Mac, or WSL.
     - [python3](https://www.python.org/)
 - Get an account on [ipinfo.io](https://ipinfo.io/) (the free tier is fine)
 
-## Install
+## Setup
 ```bash
 git clone https://github.com/wigginno/geolocate-pcap-hosts.git
 cd geolocate-pcap-hosts
