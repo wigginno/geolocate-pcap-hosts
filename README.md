@@ -1,7 +1,7 @@
 # geolocate-pcap-hosts
 
 ## Description
-Command line utility to create a GeoJSON-formatted world map of geolocated hosts from a packet capture. The output json data can be visualized in another tool (e.g. pasted into https://geojson.io/).  
+Command line utility to create a GeoJSON-formatted world map of geolocated hosts from a network packet capture. The output json data can be visualized in another tool (e.g. pasted into https://geojson.io/).  
 Run it on Linux, Mac, or WSL.
 
 ## Prerequisites
